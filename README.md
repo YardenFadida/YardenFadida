@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @YardenFadida
 - 👀 I’m Student for computer science and Specialize in Cybersecurity at UNB
-- 🌱 I’m currently learning know how to program in JAVA and how to build SQl databases, html websites, Android application and manage websites.
+- 🌱 I’m know how to program in JAVA and how to build SQl databases, html websites, Android application and manage websites.
+-    Currently working on my degree and manage websites.
 - 📫 For any question collaboration or anything else you can reach me through my linkedIn.
 
 <!---
